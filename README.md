@@ -1,6 +1,8 @@
 # GeoPilot AI
 ### AI Copilot for Data Quality, Workflow Automation, and Operational Readiness
 
+https://geopilot-ai-lh36vwvmet9zjeb5uiazqn.streamlit.app/
+
 GeoPilot AI is a portfolio-grade enterprise AI copilot that audits incoming datasets, scores operational readiness, identifies quality risks, recommends remediation actions, and generates workflow plans.
 
 ## What it does
